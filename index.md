@@ -11,7 +11,7 @@ My favorite channel on youtube is the [Sidemen Channel](https://www.youtube.com/
 
 ## More about me :)
 
-[Here is a link to my README.md file about me and my favorite programming language](github.com/amansingh1720/CSE-110-GitHub-Pages-project/blob/32b218d954b58e9eb9ca57e1213ebfbcc5f6ec65/README.md).
+[Here is a link to my README.md file about me and my favorite programming language](https://github.com/amansingh1720/CSE-110-GitHub-Pages-project/blob/32b218d954b58e9eb9ca57e1213ebfbcc5f6ec65/README.md).
 
 These are the countries that I have lived in:
 -India 
